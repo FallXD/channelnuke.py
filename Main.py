@@ -34,4 +34,4 @@ async def Clear(ctx, amount=1000):
     
    
  #Bot Token
-client.run('ODUyOTQ1MDUzNDU0MzAzMjQy.YMOM-w.Mp_OckwW_-_oSqEEltF6a6eLDRk')
+client.run('TOKEN')
